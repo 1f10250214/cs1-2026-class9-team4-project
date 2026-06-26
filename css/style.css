@@ -14,7 +14,7 @@
 .slider-track:hover{
     animation-play-state: paused;
 }
-@keyflame scroll{
+@keyframes scroll{
     0%{
         transform: translateX(0);
     }
